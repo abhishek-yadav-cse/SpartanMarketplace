@@ -6,13 +6,13 @@ Following are the key features of the website -
 1.Marketplace User Login
 Steps: Click on login button in Navigation bar on the spartanmarketplace.com homepage. You will be directed to login page. Click on create an account link at the bottom of the page.
 
-2. Central Marketplace Sorting options
+2.Central Marketplace Sorting options
 Steps: On the homepage scroll down to the Services we provide section. There are 4 sorting filters namely recommended, bestsellers, most viewed (Entire Marketplace), Most Rated (Entire Marketplace).
 
-3. Product page sorting for individual companies
+3.Product page sorting for individual companies
 Steps: On homepage, click on the services button which will produce drop-down button, click on the desired services to guide you to product page. In product page, the left column contains radio buttons for low-to-high, high-to-low, Most Rated, Most Viewed (For individual Company).
 
-4. Product User rating and review
+4.Product User rating and review
 Steps: Click on services in homepage and select desired service, click on any desired product card in product page which will redirect you to product description page. Click on Write a review button to add a review. Also, to see the user reviews click on See reviews button on product description page.
 
 5.Cart Experience
@@ -30,8 +30,8 @@ Once you are done with checkout, open a fresh browser with no google/Facebook ac
 9.Order History
 If you are a member of our marketplace you will be shown link to access your previous orders in cart page. Click on the cart symbol at the navigation bar. If you started fresh your cart will be empty. Click on the history click on right top corner of cart items section. On click you will be guided to order history of previous users. We maintained the checkout history for each user orders.
 
-10. User recommendation according to items added to the cart
+10.User recommendation according to items added to the cart
 Click on services in homepage and click to any product you want to add to cart. Click on cart symbol after you add at least one product to cart for getting suggestions. Once you reach the cart page, scroll to bottom of cart page to find recommendation based on item added to cart by the current user.
 
-11. Tweeter tweet and Annual Newsletter
+11.Tweeter tweet and Annual Newsletter
 On the homepage for spartanmarketplace, scroll to the extreme bottom of the page to find the contact details and text field for newsletter subscription. Add your email address and click on submit button. After the dialog box pop-up click on the twitter link for #lovespartanmarketplace and your will be directed to twitting page on twitter.
